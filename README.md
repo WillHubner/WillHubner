@@ -1,7 +1,5 @@
 ## Olá, Eu sou Willian Hubner 😎
 
-Here are some ideas to get you started:
-
 - 🔭 Desenvolvedor Full Stack Desktop / WEB
 - 📖 Coordenador do curso de Análise e Desenvolvimento de Sistemas - Unifasipe
 - ⚡ Gestor de Desenvolvimento de Software - Brasil Sistemas
